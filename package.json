@@ -1,0 +1,16 @@
+{
+  "name": "lava-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ss",
+  "license": "MIT",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.2",
+    "node-fetch": "^2.6.11",
+    "ethers": "^6.7.0"
+  }
+}
