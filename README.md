@@ -43,6 +43,10 @@ D:\dev\codes\lava\lava-util\lava>node export.js
 
 当步骤4运行完成后，会根据rpc文件，运行脚本，进行RPC调用刷分。lava目前好像是周四更新分数，并且明确写了会女巫bot。
 
+```cmd
+D:\dev\codes\lava\lava-util\lava>node runRpc.js
+```
+
 该项目完全0撸。
 
 
