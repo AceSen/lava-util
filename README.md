@@ -17,7 +17,7 @@ D:\dev\codes\lava\lava-util>npm install
     "phrase": "", // 注记词
     "generateNum": 500, // 生成私钥数量
     "walletStartNo": 0, // 生成私钥初始path
-    "invateCode": "AM26U" // lava邀请码
+    "invateCode": "" // lava邀请码
 }
 ```
 
